@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 An end-to-end Machine Learning pipeline designed to predict median house values from census and demographic data. Built with clean, production-ready Python architecture featuring automated data transformations, stratified train/test sampling, ensemble modeling (`RandomForestRegressor`), and seamless batch inference.
 
@@ -200,6 +200,4 @@ To keep this repository lightweight, clean, and fast to clone:
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
